@@ -64,3 +64,8 @@ file path url: `https://raw.githubusercontent.com/ryanoasis/nerd-fonts/refs/head
 | i_pom.sh | Pomicons |
 | i_seti.sh | Seti-UI |
 | i_weather.sh | Weather |
+
+# Disclaimer
+
+This project was heavily written by AIs (Claude Sonnet 4), but reviewed and tested by a human.
+This readme wasn't written by an AI tho.
